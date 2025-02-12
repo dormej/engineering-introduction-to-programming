@@ -1,7 +1,7 @@
 Date: 2019-2020
 # Introduction to Programming - Engineering Studies
 
-This repository contains a collection of programming exercises from the "Introduction to Programming" course, which is part of the engineering degree program.
+This repository contains a collection of programming exercises from the "Introduction to Programming" course, which is part of my engineering degree program.
 The exercises are intended to develop basic programming skills using the C\C++ programming language.
 
 ## Exercises
