@@ -1,4 +1,5 @@
-Date: 2019-2020
+2019 | 1st semester of Engineering Studies
+
 # Introduction to Programming - Engineering Studies
 
 This repository contains a collection of programming exercises from the "Introduction to Programming" course, which is part of my engineering degree program.
