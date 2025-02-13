@@ -1,4 +1,4 @@
-2019 | 1st semester of Engineering Studies
+2019 | 1st semester of Computer Science
 
 # Introduction to Programming - Engineering Studies
 
